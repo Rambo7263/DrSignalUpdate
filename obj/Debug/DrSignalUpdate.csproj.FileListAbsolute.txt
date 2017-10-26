@@ -1,0 +1,9 @@
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\bin\Debug\DrSignalUpdate.exe.config
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\bin\Debug\DrSignalUpdate.exe
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\bin\Debug\DrSignalUpdate.pdb
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\obj\Debug\DrSignalUpdate.Form1.resources
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\obj\Debug\DrSignalUpdate.Properties.Resources.resources
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\obj\Debug\DrSignalUpdate.csproj.GenerateResource.Cache
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\obj\Debug\DrSignalUpdate.exe
+c:\users\rambo\documents\visual studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\obj\Debug\DrSignalUpdate.pdb
+C:\Users\rambo\Documents\Visual Studio 2015\Projects\DrSignalUpdate\DrSignalUpdate\obj\Debug\DrSignalUpdate.csproj.ResolveComReference.cache
